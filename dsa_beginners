@@ -1,0 +1,126 @@
+🧱 1. Arrays
+Find the Maximum and Minimum in an Array
+
+Given an array of integers, find the smallest and largest element.
+
+Reverse an Array
+
+Reverse an array in-place.
+
+Check if Array is Sorted
+
+Determine if the array is sorted in non-decreasing order.
+
+Find the Second Largest Element
+
+Return the second largest unique element.
+
+Left Rotate an Array by One
+
+Move every element one place to the left, and the first element to the end.
+
+🔁 2. Strings
+Palindrome Check
+
+Check if a given string reads the same forward and backward.
+
+Count Vowels and Consonants
+
+Given a string, count the number of vowels and consonants.
+
+Anagram Check
+
+Given two strings, check if they are anagrams of each other.
+
+Remove Duplicates
+
+Remove duplicate characters from a string while maintaining order.
+
+Find First Non-Repeating Character
+
+Return the first character that doesn’t repeat.
+
+🔄 3. Recursion
+Factorial of a Number
+
+Calculate n! using recursion.
+
+Fibonacci Series
+
+Print first n terms of the Fibonacci sequence.
+
+Sum of Digits
+
+Find the sum of digits of a number using recursion.
+
+Power of a Number
+
+Implement a^b recursively.
+
+Print All Subsets of a String
+
+Use recursion to print all subsets.
+
+🧮 4. Searching & Sorting
+Linear Search
+
+Search for an element in an array sequentially.
+
+Binary Search
+
+Search for an element in a sorted array using binary search.
+
+Bubble Sort
+
+Implement bubble sort to sort an array.
+
+Insertion Sort
+
+Sort an array using insertion sort.
+
+Selection Sort
+
+Sort an array using selection sort.
+
+🔗 5. Linked List (Singly)
+Insert at Beginning / End
+
+Write functions to insert nodes.
+
+Print the Linked List
+
+Traverse and print all nodes.
+
+Reverse the Linked List
+
+Reverse the list using iteration.
+
+Find Middle of Linked List
+
+Use two-pointer technique to find the middle node.
+
+Detect Loop in Linked List
+
+Use Floyd’s cycle detection algorithm.
+
+🌳 6. Stacks and Queues
+Implement Stack using Array
+
+Implement Queue using Array
+
+Check for Balanced Parentheses
+
+Reverse a Stack using Recursion
+
+Implement Two Stacks in One Array
+
+🎯 7. Basic Math & Bitwise
+Check Prime Number
+
+Count Digits in a Number
+
+Check Power of 2
+
+Swap Two Numbers Without Temp Variable
+
+Find Single Number (XOR Based)
