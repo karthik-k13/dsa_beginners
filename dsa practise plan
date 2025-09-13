@@ -1,0 +1,106 @@
+🗓️ 7-Day DSA Interview Practice Plan
+Day 1 – Arrays & Strings (High Frequency)
+
+ Maximum Subarray Sum (Kadane’s Algo)
+
+ Merge Two Sorted Arrays
+
+ Search in Rotated Sorted Array
+
+ Rotate Matrix (90°)
+
+ Trapping Rainwater
+
+ Longest Substring Without Repeating Characters
+
+ Longest Palindromic Substring
+
+Day 2 – Hashing & Sliding Window
+
+ Two Sum
+
+ Subarray Sum Equals K
+
+ Longest Consecutive Sequence
+
+ Group Anagrams
+
+ First Non-Repeating Character
+
+ Sliding Window Maximum
+
+Day 3 – Stacks & Queues
+
+ Valid Parentheses
+
+ Min Stack
+
+ Next Greater Element
+
+ Largest Rectangle in Histogram
+
+ Implement Stack using Queues
+
+ LRU Cache (Design problem)
+
+Day 4 – Linked List
+
+ Reverse Linked List (Iterative + Recursive)
+
+ Detect Cycle in Linked List (Floyd’s Cycle Detection)
+
+ Merge Two Sorted Lists
+
+ Remove Nth Node From End
+
+ Add Two Numbers (Linked Lists)
+
+ Flatten Multilevel Linked List
+
+Day 5 – Trees & BST
+
+ Inorder, Preorder, Postorder Traversals (Iterative + Recursive)
+
+ Level Order Traversal
+
+ Diameter of Binary Tree
+
+ Lowest Common Ancestor (LCA)
+
+ Validate BST
+
+ Kth Smallest in BST
+
+ Serialize & Deserialize Binary Tree
+
+Day 6 – Graphs
+
+ BFS Traversal
+
+ DFS Traversal
+
+ Detect Cycle (Directed & Undirected Graph)
+
+ Number of Islands
+
+ Clone Graph
+
+ Topological Sort
+
+ Dijkstra’s Algorithm (Shortest Path)
+
+Day 7 – Dynamic Programming + Mix
+
+ Climbing Stairs
+
+ Coin Change
+
+ Longest Common Subsequence (LCS)
+
+ Longest Increasing Subsequence (LIS)
+
+ Edit Distance
+
+ 0/1 Knapsack
+
+ Word Break Problem
